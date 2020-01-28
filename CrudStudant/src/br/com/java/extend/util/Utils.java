@@ -28,6 +28,6 @@ public class Utils {
 
 	public static void main(String[] args) {
 		String result = Utils.getMd5DigestValue("java123");
-		System.out.println(result);
+		System.out.println(result);  
 	}
 }
